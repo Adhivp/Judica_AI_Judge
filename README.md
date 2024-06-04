@@ -34,16 +34,21 @@
 Judica is an innovative platform that leverages advanced AI technology to deliver impartial and accurate judgments swiftly and efficiently. Designed to revolutionize the justice system, Judica provides a user-friendly interface, ensuring privacy and security for all users.
 
 ## Demo video
+### Sheperd demo
+https://github.com/Adhivp/Judica_AI_Judge/assets/92261845/da5581eb-fc75-4d49-9d57-7f628b4b7db7
+
+### Full Judica working demo
 https://youtu.be/pJHGqlmsidE
 
 ## Features
-
+- Shepherd.js Tour Integration:
+    - Shepherd.js is seamlessly integrated into the virtual courtroom application, providing an interactive tour to guide users through its features.
+    - It's located inside `AI_courtroom/templates/AI_courtroom.html`
 - **AI-Powered Judgments**: Our cutting-edge AI system provides impartial and accurate judgments, revolutionizing the way justice is delivered.
 - **User Disputes Resolved**: Easily file and manage disputes. Judica mediates and provides fair resolutions using advanced AI technology.
 - **Secure and Private**: All data is encrypted to ensure privacy and security.
 - **User-Friendly Interface**: A chat-like interface allows for smooth and intuitive navigation.
 
-`AI_courtroom/views.py` file. This code handles the logic for AI-powered judgments(LLMWARE) and dispute resolutions.
 
 
 ## Getting Started
@@ -111,7 +116,8 @@ We welcome contributions to enhance Judica. Please follow these steps:
 
 ## Screenshots
 
-<img src="https://github.com/Adhivp/Judica/assets/92261845/054b4507-a944-4625-b854-53ea5df2089d" alt="Screenshot 2024-05-21 at 9 43 15 PM" width="770">
+![Screenshot 2024-06-04 at 7 06 29 AM](https://github.com/Adhivp/Judica_AI_Judge/assets/92261845/56762087-7bca-4cc0-bf88-9b5519a069fa)
+
 <img src="https://github.com/Adhivp/Judica/assets/92261845/7ec6fe3d-e031-4568-a9ab-0beee1e7fe19" alt="Image 1">
 <img src="https://github.com/Adhivp/Judica/assets/92261845/a5315474-feb3-46ce-babb-3e60293dfd92" alt="Image 2">
 <img src="https://github.com/Adhivp/Judica/assets/92261845/9773a4d4-2a13-4452-b6a8-66030b024f53" alt="Image 3">
